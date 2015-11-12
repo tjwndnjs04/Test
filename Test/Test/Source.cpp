@@ -3,6 +3,6 @@ using namespace std;
 
 auto main()->int
 {
-	cout << "hh" << endl;
+	cout << "asdf" << endl;
 	return 0;
 }
