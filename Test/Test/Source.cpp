@@ -3,6 +3,6 @@ using namespace std;
 
 auto main()->int
 {
-	cout << "¹Î±Ô°¡ Á¦ÀÏ Àß»ı±è" << endl;
+	cout << "Mingue is Very Handsome" << endl;
 	return 0;
 }
